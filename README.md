@@ -1,9 +1,3 @@
-<style>
-    .social-icons {
-    padding-top: 10px;
-}
-</style>
-
 <!-- Banner starts -->
 <img src="images/Banner.jpeg" width="100%">
 <h1> Assalamu Alikum </h1>
@@ -14,11 +8,11 @@
 
 _Student & Web Developer_
 
-[<img align="left" alt="facebook" title="facebook" width="40" hspace="1" class="social-icons" src="./images/facebook.svg" />](https://www.facebook.com/programmer.muhtasim/)
-[<img align="left" alt="linkedin" title="linkedin" width="40" hspace="1" class="social-icons" src="./images/instagram.svg" />](https://www.instagram.com/mdturzo999/)
-[<img align="left" alt="website" title="website" width="40" hspace="1" class="social-icons" src="./images/twitter-x.svg" />](https://twitter.com/MdTurzo16)
-[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" class="social-icons" src="./images/youtube.svg" />](http://www.youtube.com/@Muhtasim_Rahman_)
-[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" class="social-icons" src="./images/github.svg" />](https://github.com/muhtasim-rahman)
+[<img align="left" alt="facebook" title="facebook" width="40" hspace="1" style="padding-top: 10px;" src="./images/facebook.svg" />](https://www.facebook.com/programmer.muhtasim/)
+[<img align="left" alt="linkedin" title="linkedin" width="40" hspace="1" style="padding-top: 10px;" src="./images/instagram.svg" />](https://www.instagram.com/mdturzo999/)
+[<img align="left" alt="website" title="website" width="40" hspace="1" style="padding-top: 10px;" src="./images/twitter-x.svg" />](https://twitter.com/MdTurzo16)
+[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" style="padding-top: 10px;" src="./images/youtube.svg" />](http://www.youtube.com/@Muhtasim_Rahman_)
+[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" style="padding-top: 10px;" src="./images/github.svg" />](https://github.com/muhtasim-rahman)
 
 </br>
 </br>
