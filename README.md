@@ -2,7 +2,7 @@
 <img src="images/Banner.jpeg" width="100%">
 <h1> 🤝Assalamu Alikum </h1>
 
-<img src="images/profile_pic.jpeg" width="150px" style=" border-radius: 50%; border: 2px solid white; ">
+<img src="images/profile_pic.png" width="150px">
 
 <h2> Muhtasim Rahman</h2>
 
@@ -19,14 +19,31 @@ _Student & Web Developer_
 </br>
 </br>
 
-### About Me
+### 🙋‍♂️ About Me
 
-<p style="text-align: justify;"> This is Turzo. My full name is 'Md Muhtasim Rahman Mahmud'. I am a student of Class 9 (2024) from Saidpur Govt. Science College, Saidpur Nilphamari. I am 16 years old. </p>
-<p style="text-align: justify;"> From my childhood I like technical reletad things. I think I have enough Knowledge about mobile and computer according to my age. I wanted to be an electrical enginiar. But mow I have changed my decisation. Now I want to be a CSC Enginier. So I am learning programing from YouTube. </p>
+<p align="justify"> This is Turzo. My full name is 'Md Muhtasim Rahman Mahmud'. I am a student of Class 9 (2024) from Saidpur Govt. Science College, Saidpur Nilphamari. I am 16 years old. </p>
+<p align="justify"> From my childhood I like technical reletad things. I think I have enough Knowledge about mobile and computer according to my age. I wanted to be an electrical enginiar. But mow I have changed my decisation. Now I want to be a CSC Enginier. So I am learning programing from YouTube. </p>
 
 </br>
 
-### My Skills on Programming
+### 👨🏻‍🎓 Education
+
+1. St. Gerosa`s Junior School <br>
+   <b>Class: </b><i>Nursery, Kagy, One, Two, Three</i>
+2. Tulshiram Govt. Primary School <br>
+   <b>Class: </b><i>Four, Five</i>
+3. Saidpur Govt. Science College <br>
+   <b>Class: </b><i>Six, Seven, Eight
+
+- <b>PSC</b> pass <br>
+  (From: <i>Tulshiram Govt. Primary School)</i>
+- <b>Class 8</b> Pass <br>
+  (From: <i>Saidpur Govt. Science College )
+- <b>Now in class 9 (SGSC).</b>
+
+</br>
+
+### 🤹🏻 My Skills on Programming
 
 |                                                         | Languages    | Rating |
 | ------------------------------------------------------- | ------------ | ------ |
@@ -37,3 +54,57 @@ _Student & Web Developer_
 | <img src="images/bootstrap.svg" style="height: 25px;">  | Bootstrap    | ★★★☆☆  |
 | <img src="images/javascript.svg" style="height: 25px;"> | JavaScript   | ★★☆☆☆  |
 | <img src="images/git.svg" style="height: 25px;">        | Git & GitHub | ★★★★☆  |
+
+</br>
+
+### 🌍 Language
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Communicative
+
+</br>
+
+### Sports / Game / Activities / Hobby:
+
+- 🤲 Prayer
+- 👨🏻‍💻 Programming & codding
+- 🏏 Cricket, ⚽ Football,
+- 🏊‍♂️ Swimming, 🚴‍♀️ cycleing, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+
+### Latest YouTube videos
+
+<iframe
+  src="https://www.youtube.com/embed?listType=playlist&list=UUrmXOcewNX50s2atzUWFfrg"
+>
+</iframe>
+<iframe
+  src="https://www.youtube.com/embed?listType=playlist&list=UUrmXOcewNX50s2atzUWFfrg&index=2"
+>
+</iframe>
+
+</br>
+
+### 🖥️ About my GitHub skills
+
+  <!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasim-rahman)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtasim-rahman&show_icons=true)
+
+<br/>
+
+<!-- github stats ends here  -->
+
+---
+
+Thank you for taking the time to check in on me.  
+All rights reserved by <b> Muhtasim Rahman @2024.5 </b>
+
+---
