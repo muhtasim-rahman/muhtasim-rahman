@@ -1,9 +1,34 @@
-# Assalamu Alikum
+<style>
+    .social-icons {
+    padding-top: 10px;
+}
+</style>
+
+<!-- Banner starts -->
+<img src="images/Banner.jpeg" width="100%">
+<h1> Assalamu Alikum </h1>
+
+<img src="images/profile_pic.jpeg" width="150px" style=" border-radius: 50%; border: 2px solid white; ">
+
+<h2> Muhtasim Rahman</h2>
+
+_Student & Web Developer_
+
+[<img align="left" alt="facebook" title="facebook" width="40" hspace="1" class="social-icons" src="./images/facebook.svg" />](https://www.facebook.com/programmer.muhtasim/)
+[<img align="left" alt="linkedin" title="linkedin" width="40" hspace="1" class="social-icons" src="./images/instagram.svg" />](https://www.instagram.com/mdturzo999/)
+[<img align="left" alt="website" title="website" width="40" hspace="1" class="social-icons" src="./images/twitter-x.svg" />](https://twitter.com/MdTurzo16)
+[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" class="social-icons" src="./images/youtube.svg" />](http://www.youtube.com/@Muhtasim_Rahman_)
+[<img align="left" alt="youtube" title="youtube link" width="40" hspace="1" class="social-icons" src="./images/github.svg" />](https://github.com/muhtasim-rahman)
+
+</br>
+</br>
+</br>
+</br>
 
 ### About Me
 
-<p> This is Turzo. My full name is 'Md Muhtasim Rahman Mahmud'. I am a student of Class 9 (2024) from Saidpur Govt. Science College, Saidpur Nilphamari. I am 16 years old. </p>
-<p> From my childhood I like technical reletad things. I think I have enough Knowledge about mobile and computer according to my age. I wanted to be an electrical enginiar. But mow I have changed my decisation. Now I want to be a Computer Enginier. So I am learning programing from YouTube. </p>
+<p style="text-align: justify;"> This is Turzo. My full name is 'Md Muhtasim Rahman Mahmud'. I am a student of Class 9 (2024) from Saidpur Govt. Science College, Saidpur Nilphamari. I am 16 years old. </p>
+<p style="text-align: justify;"> From my childhood I like technical reletad things. I think I have enough Knowledge about mobile and computer according to my age. I wanted to be an electrical enginiar. But mow I have changed my decisation. Now I want to be a CSC Enginier. So I am learning programing from YouTube. </p>
 
 ### Skills
 
