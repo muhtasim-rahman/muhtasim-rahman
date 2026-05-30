@@ -7,7 +7,7 @@
   <img src="assets/preview.webp" width="100%" alt="mdturzo.web.app — Portfolio Preview" />
 </a>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://mdturzo.web.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mdturzo.web.app-2563EB?style=for-the-badge" alt="Portfolio" /></a>
@@ -19,13 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=muhtasim-rahman&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
 
 <table>
   <tr>
-    <td align="center" valign="top" width="38%">
+    <td align="center" valign="center" width="40%">
       <br/>
       <img src="assets/hero-back.webp" width="270" alt="Muhtasim Rahman" />
       <br/><br/>
@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <!-- ════════════════════════  TECH STACK  ════════════════════════ -->
 
@@ -103,13 +103,13 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java&theme=dark&perline=8" alt="Languages" />
 
-<br/>
+<br/><br/>
 
 <p><strong>Platforms &amp; Tools</strong></p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=dark&perline=8" alt="Tools" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Currently_Improving-JavaScript_Advanced-F59E0B?style=flat-square&logo=javascript&logoColor=white" />
 &nbsp;
@@ -117,7 +117,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ══════════════════════  FEATURED PROJECTS  ══════════════════════ -->
 
@@ -209,9 +209,9 @@
 
 <br/>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/muhtasim-rahman?cardType=level&fontFamily=42dot%20Sans&preferLogin=false&theme=tokyonight&Background=0F172A&Border=1E293B&Title=F8FAFC&Text=94A3B8&Icon=3B82F6" />
+<img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/muhtasim-rahman?cardType=level&fontFamily=42dot%20Sans&preferLogin=false&theme=tokyonight&Background=0F172A&Border=1E293B&Title=F8FAFC&Text=94A3B8&Icon=3B82F6" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=muhtasim-rahman&background=0d1117&border=1e293b&stroke=3b82f6&ring=2563eb&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=93c5fd&sideLabels=94a3b8&dates=64748b&hide_border=false" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=muhtasim-rahman&background=0d1117&border=1e293b&stroke=3b82f6&ring=2563eb&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=93c5fd&sideLabels=94a3b8&dates=64748b&hide_border=false" alt="GitHub Streak" />
 
 <br/><br/>
 
