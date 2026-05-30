@@ -3,25 +3,11 @@
      Muhtasim Rahman (Turzo) — Web Developer · Designer · Creator
      ════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1a35,70:13316b,100:2563eb&height=220&section=header&text=Muhtasim%20Rahman&fontSize=56&fontColor=ffffff&fontAlignY=44&fontAlign=50&desc=Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Creator&descColor=93c5fd&descSize=17&descAlignY=65&animation=twinkling" alt="Muhtasim Rahman" />
-
-</div>
+<a href="https://mdturzo.web.app">
+  <img src="assets/preview.webp" width="100%" alt="mdturzo.web.app — Portfolio Preview" />
+</a>
 
 <br/>
-
-<div align="center">
-  <img src="assets/logo.webp" width="100" alt="Muhtasim Rahman — Logo" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=19&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=540&height=42&lines=Assalamu+Alaikum+%F0%9F%91%8B+%E2%80%94+I'm+Turzo;Self-taught+Web+Developer+%F0%9F%92%BB;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;Building+meaningful+things+from+%F0%9F%87%A7%F0%9F%87%A9+Bangladesh;SSC-26+%C2%B7+Future+CSE+Engineer+%F0%9F%8E%AF" alt="Typing Animation" />
-</div>
-
-<br/><br/>
 
 <div align="center">
   <a href="https://mdturzo.web.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mdturzo.web.app-2563EB?style=for-the-badge" alt="Portfolio" /></a>
@@ -35,15 +21,13 @@
 
 <br/>
 
----
-
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
 
 <table>
   <tr>
     <td align="center" valign="top" width="38%">
       <br/>
-      <img src="assets/hero.webp" width="270" alt="Muhtasim Rahman" />
+      <img src="assets/hero-back.webp" width="270" alt="Muhtasim Rahman" />
       <br/><br/>
       <a href="https://facebook.com/mdturzo999"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
       <a href="https://instagram.com/mdturzo999"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" /></a>
@@ -107,8 +91,6 @@
 
 <br/>
 
----
-
 <!-- ════════════════════════  TECH STACK  ════════════════════════ -->
 
 <div align="center">
@@ -121,13 +103,13 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,java&theme=dark&perline=8" alt="Languages" />
 
-<br/><br/>
+<br/>
 
 <p><strong>Platforms &amp; Tools</strong></p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=dark&perline=8" alt="Tools" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Currently_Improving-JavaScript_Advanced-F59E0B?style=flat-square&logo=javascript&logoColor=white" />
 &nbsp;
@@ -136,8 +118,6 @@
 </div>
 
 <br/>
-
----
 
 <!-- ══════════════════════  FEATURED PROJECTS  ══════════════════════ -->
 
@@ -156,7 +136,9 @@
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square" />
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
       </p>
-      <sub>🔒 Private · Active Development · v1.4.5</sub>
+      <p>
+        <a href="https://linkivo.web.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
+      </p>
     </td>
     <td valign="top" width="50%">
       <h3>📱 QR Prism &nbsp;<sub>QR Code Suite</sub></h3>
@@ -170,9 +152,7 @@
         <img src="https://img.shields.io/badge/JSZip-1e293b?style=flat-square" />
       </p>
       <p>
-        <a href="https://muhtasim-rahman.github.io/qr-prism"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
-        &nbsp;
-        <a href="https://github.com/muhtasim-rahman/qr-prism"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://qr-prism.web.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -221,8 +201,6 @@
 
 <br/>
 
----
-
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
 
 <div align="center">
@@ -231,12 +209,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhtasim-rahman&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&icon_color=2563eb&border_color=1e293b&count_private=true&rank_icon=github&include_all_commits=true&hide_border=false" alt="GitHub Stats" height="175" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/muhtasim-rahman?cardType=level&fontFamily=42dot%20Sans&preferLogin=false&theme=tokyonight&Background=0F172A&Border=1E293B&Title=F8FAFC&Text=94A3B8&Icon=3B82F6" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasim-rahman&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&border_color=1e293b&langs_count=8&hide_border=false" alt="Top Languages" height="175" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=muhtasim-rahman&background=0d1117&border=1e293b&stroke=3b82f6&ring=2563eb&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=93c5fd&sideLabels=94a3b8&dates=64748b&hide_border=false" alt="GitHub Streak" />
 
 <br/><br/>
@@ -246,30 +220,6 @@
 </div>
 
 <br/>
-
----
-
-<!-- ═══════════════════  PORTFOLIO SHOWCASE  ═══════════════════ -->
-
-<div align="center">
-
-<h2>🌐 Portfolio Showcase</h2>
-
-<a href="https://mdturzo.web.app">
-  <img src="assets/preview.webp" width="80%" alt="mdturzo.web.app — Portfolio Preview" />
-</a>
-
-<br/><br/>
-
-<a href="https://mdturzo.web.app">
-  <img src="https://img.shields.io/badge/Visit_Portfolio%20%E2%86%92-mdturzo.web.app-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
----
 
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 
@@ -291,7 +241,7 @@
   <img src="https://img.shields.io/badge/Email-mdturzo.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://facebook.com/mdturzo999">
   <img src="https://img.shields.io/badge/Facebook-mdturzo999-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -309,7 +259,7 @@
   <img src="https://img.shields.io/badge/X_(Twitter)-mdturzo999-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://t.me/mdturzo16">
   <img src="https://img.shields.io/badge/Telegram-mdturzo16-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -336,7 +286,7 @@
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,40:0c1a35,100:020617&height=130&section=footer&animation=twinkling" alt="Footer Wave" />
+---
 
 <div align="center">
   <sub>Made with ❤️ by <a href="https://mdturzo.web.app">Muhtasim Rahman</a> &nbsp;·&nbsp; 🇧🇩 Bangladesh &nbsp;·&nbsp; 2026</sub>
